@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lz/study/c++/cmakeStudy/DesignPatterns/Bridge/OS.h
+iostream
+-
+
+/home/lz/study/c++/cmakeStudy/DesignPatterns/Bridge/Phone.h
+OS.h
+/home/lz/study/c++/cmakeStudy/DesignPatterns/Bridge/OS.h
+
+/home/lz/study/c++/cmakeStudy/DesignPatterns/Bridge/main.cpp
+iostream
+-
+OS.h
+/home/lz/study/c++/cmakeStudy/DesignPatterns/Bridge/OS.h
+Phone.h
+/home/lz/study/c++/cmakeStudy/DesignPatterns/Bridge/Phone.h
+
