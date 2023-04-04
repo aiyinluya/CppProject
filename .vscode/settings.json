@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.razor": "aspnetcorerazor",
+        "*.csproj": "csharp",
+        "*.cshtml": "html",
+        "*.cs": "csharp",
+        "*.py": "python",
+        "new": "cpp"
+    }
+}
