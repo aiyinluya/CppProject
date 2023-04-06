@@ -1,2 +1,5 @@
 DesignPatterns/Decorator/build/*
 DesignPatterns/Bridge/build/*
+B_DesignPatterns/Factory/AbstractFactory/build/*
+B_DesignPatterns/Factory/FactoryMethod/build/*
+B_DesignPatterns/Factory/SimpleFactory/build/*
